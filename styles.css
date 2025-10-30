@@ -2,7 +2,7 @@
 .cards{
   display: flex;
   flex-wrap: wrap;           /* Allows images to move to the next line */
-  justify-content: center;   /* Centers images horizontally */
+  justify-content: flex-end;   /* Centers images horizontally */
 }
 
 img{
